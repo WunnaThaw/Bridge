@@ -1,0 +1,14 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\Bridge\bin\Debug\Bridge.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\Bridge\bin\Debug\Bridge.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\Bridge\bin\Debug\Bridge.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\Bridge\obj\Debug\Bridge.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\Bridge\obj\Debug\Bridge.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\bin\Debug\Bridge.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\obj\Debug\Bridge.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\obj\Debug\Bridge.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\bin\Debug\Bridge.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\bin\Debug\Bridge.pdb
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\bin\Debug\Bridge.exe.config
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\obj\Debug\Bridge.exe
+D:\class\ITPassport\Advanced Programming & Design Patterns\Structural Patterns\Bridge\obj\Debug\Bridge.pdb
